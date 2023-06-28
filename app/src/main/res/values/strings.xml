@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OMDB</string>
+    <string name="please_enter_valid_movie">Please Enter Valid Movie</string>
+    <string name="please_enter_movie_name">Please Enter Movie Name</string>
+    <string name="please_enter_more_than_2_words">Please Enter more than 2 words</string>
+    <string name="search_here">Search Here...</string>
+    <string name="no_search_query">No Search Query</string>
+    <string name="something_went_wrong">something went wrong</string>
+</resources>
